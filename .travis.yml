@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: Gp8KI9of9/jWTLPSc9mGT2eWIeevhu3cxZ3OGIgcsleIluNNMXdzV0Vb2bYpr53Ut0UECSP7sDat8iH29+ee4KfbMCyWbpDTENXwzaayHl0r3Q1PE4Qfk/Yb3XYVRRhnLG+07iazUWlOyhD/IYkQhyBPL7d0sF1YU0JQhTcepZAgj/ndUomTrK5xnCXlvR8OzH2+acGmm4f9BOAId2wBAwfUvgEKcYgdLyLj8y2lIC9Fs0lOy3TO7Oh7ioDOgUoIKnvCA1Sb3Sc3J3+3XsBtNJ3xRIK/nmY4XJLpZNTmeArQTpyNg6lRFeZjbmXNrDG/KbBfQtPJyugNFmzpbg1p/i/Un2Ks18xkozR2tguVuD0ULLVbzwcLc1oLNU6sgWugcBwpBfB8T7OO9nKHLz151oBXeRJo32YMKc0ur9bBoAQ82e/ld0CRP+zLH/6FRqkhnuGqdKNBRGPJ5g2sVArU/+eh0UK8J5s3akba5afyKonMVNe6wDK0NNxBGHvK+z8VrhmzUP89O003SA0dvbxe/wavHDuwE9LmEn2WTPhskopzIoNoP/60p/7yJF5a/T6T3+KY5bT0eblxM6AkD3uNQBpqr7geF0u+Z3IDxv9zJB2eIbRonpqKr04drxDixnY8gcqQZotZ1uIXTd7Op/aL0+jjUURBFYupvsNmsuF5DFQ=
-  app: "|blog-app-mongoose-jennifer|"
+  app: blog-app-mongoose-jennifer
   skip-cleanup: true
   on:
     repo: jennifer/blog-app-mongoose-challenge-solution
